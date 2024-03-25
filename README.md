@@ -49,5 +49,5 @@ This project was done in a team.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ArielBritezDiaz&title_color=ff4737&text_color=FFFFFB&icon_color=f0b35f&bg_color=0d1944&hide_rank=false&count_private=true&custom_title=Profile&show_icons=true" />
 </a>
 <a href="https://github.com/ArielBritezDiaz/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielBritezDiaz&show_icons=true&title_color=ff4737&text_color=FFFFFB&icon_color=f0b35f&bg_color=0d1944&hide_rank=false&count_private=true&include_all_commits=true&show_icons=true&layout=compact&langs_count=7&card_width=455&exclude_repo=nuevaProbandoGitGitHub,restapi-employees,fullStackOpenCourse,nuevaProbandoGitGitHub,test.github.io,colegio,cmf-engines,portfolio&custom_title=My historically most used languages" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielBritezDiaz&show_icons=true&title_color=ff4737&text_color=FFFFFB&icon_color=f0b35f&bg_color=0d1944&hide_rank=false&count_private=true&include_all_commits=true&show_icons=true&layout=compact&langs_count=7&card_width=455&exclude_repo=nuevaProbandoGitGitHub,restapi-employees,fullStackOpenCourse,nuevaProbandoGitGitHub,test.github.io,colegio,cmf-engines,portfolio" />
 </a>
