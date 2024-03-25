@@ -23,7 +23,7 @@ I'm a Programming Technician and developer, who is restless and self-taught, I'm
 I have solid knowledge of Web Development, especially in Backend; at one point, I delved into the world of Blockchain and Cryptocurrencies, and now I'm researching and learning in the field of Artificial Intelligence!
 
 ## Projects
-My various projects and repositories are public, such as:
+Some of my projects and repositories are public, here are some of them:
 
 ### <a href="https://github.com/ArielBritezDiaz/countries-sundries-api" target="_blank">Countries Sundries API</a>
 An API that provides information about different countries and organizations around the world. This API was a challenge that I accepted with great enthusiasm since I developed it myself using technologies completely new to me, such as NestJs, Astro, Starlight (Astro Framework), TailwindCSS, Bun, Prisma, among others.
