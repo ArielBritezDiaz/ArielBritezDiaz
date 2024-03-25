@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Ariel Diaz</h1>
+# Hi! I'm Ariel Díaz
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ariel-britez-diaz-technical/">
