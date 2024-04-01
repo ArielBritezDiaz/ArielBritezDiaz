@@ -35,7 +35,7 @@ A cryptocurrency called 'Flitcoin' developed with Solidity, along with the block
 CMF Engines: An e-commerce oriented towards collectible cars, motorcycles, and Formula cars, developed with PHP for the Backend.
 
 ### <a href="https://github.com/ArielBritezDiaz/flit-application" target="_blank">Flit Application</a>
-A mobile application called "Flit", which is developed with React Native and aims at managing daily personal finances.This project was done in a team.
+A mobile application called "Flit", which is developed with React Native and aims at managing daily personal finances.
 
 
 ### <a href="https://github.com/ArielBritezDiaz/F1-API" target="_blank">F1 API</a>
@@ -57,5 +57,5 @@ This project was done in a team.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ArielBritezDiaz&title_color=ff4737&text_color=FFFFFB&icon_color=f0b35f&bg_color=102057&hide_rank=false&count_private=true&custom_title=Profile&show_icons=true" />
 </a>
 <a href="https://github.com/ArielBritezDiaz/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielBritezDiaz&show_icons=true&title_color=ff4737&text_color=FFFFFB&icon_color=f0b35f&bg_color=102057&hide_rank=false&count_private=true&include_all_commits=true&show_icons=true&layout=compact&langs_count=7&card_width=450&exclude_repo=nuevaProbandoGitGitHub,restapi-employees,fullStackOpenCourse,nuevaProbandoGitGitHub,test.github.io,colegio,cmf-engines,portfolio" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielBritezDiaz&show_icons=true&title_color=ff4737&text_color=FFFFFB&icon_color=f0b35f&bg_color=102057&hide_rank=false&count_private=true&include_all_commits=true&show_icons=true&layout=compact&langs_count=7&card_width=455&exclude_repo=nuevaProbandoGitGitHub,restapi-employees,fullStackOpenCourse,nuevaProbandoGitGitHub,test.github.io,colegio,cmf-engines,portfolio" />
 </a>
