@@ -35,7 +35,7 @@ A cryptocurrency called 'Flitcoin' developed with Solidity, along with the block
 CMF Engines: An e-commerce oriented towards collectible cars, motorcycles, and Formula cars, developed with PHP for the Backend.
 
 ### <a href="https://github.com/ArielBritezDiaz/flit-application" target="_blank">Flit Application</a>
-A mobile application called "Flit", which is developed with React Native and aims at managing daily personal finances.
+A mobile application called "Flit", which is developed with React Native and aims at managing daily personal finances.This project was done in a team.
 
 
 ### <a href="https://github.com/ArielBritezDiaz/F1-API" target="_blank">F1 API</a>
