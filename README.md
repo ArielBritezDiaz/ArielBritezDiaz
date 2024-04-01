@@ -1,4 +1,6 @@
-# Hi! I'm Ariel Díaz
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Lexend&color=ff4737&size=50&center=true&vCenter=true&width=900&height=70&pause=200&duration=2500&lines=Hi!+I'm+Ariel+Díaz!;Welcome+to+my+GitHub+Profile!" />
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ariel-britez-diaz-technical/">
@@ -44,10 +46,16 @@ This project was done in a team.
 An e-commerce focused on collectible vehicles, covering cars, motorcycles, and Formula One.\
 This project was done in a team.
 
+## Languages - Frameworks - Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nestjs,express,postgres,mysql,prisma,postman,npm,bun,nodejs,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=md,vscode,neovim,bash,linux,debian,solidity,figma,python,java,php,powershell,discord&theme=dark" />
+</div>
+
 ## My Github Stats
 <a href="https://github.com/ArielBritezDiaz/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ArielBritezDiaz&title_color=ff4737&text_color=FFFFFB&icon_color=f0b35f&bg_color=0d1944&hide_rank=false&count_private=true&custom_title=Profile&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ArielBritezDiaz&title_color=ff4737&text_color=FFFFFB&icon_color=f0b35f&bg_color=102057&hide_rank=false&count_private=true&custom_title=Profile&show_icons=true" />
 </a>
 <a href="https://github.com/ArielBritezDiaz/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielBritezDiaz&show_icons=true&title_color=ff4737&text_color=FFFFFB&icon_color=f0b35f&bg_color=0d1944&hide_rank=false&count_private=true&include_all_commits=true&show_icons=true&layout=compact&langs_count=7&card_width=455&exclude_repo=nuevaProbandoGitGitHub,restapi-employees,fullStackOpenCourse,nuevaProbandoGitGitHub,test.github.io,colegio,cmf-engines,portfolio" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielBritezDiaz&show_icons=true&title_color=ff4737&text_color=FFFFFB&icon_color=f0b35f&bg_color=102057&hide_rank=false&count_private=true&include_all_commits=true&show_icons=true&layout=compact&langs_count=7&card_width=455&exclude_repo=nuevaProbandoGitGitHub,restapi-employees,fullStackOpenCourse,nuevaProbandoGitGitHub,test.github.io,colegio,cmf-engines,portfolio" />
 </a>
