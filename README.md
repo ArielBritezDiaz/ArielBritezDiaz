@@ -48,8 +48,8 @@ This project was done in a team.
 
 ## Languages - Frameworks - Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nestjs,express,postgres,mysql,prisma,postman,npm,bun,nodejs,git&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=md,vscode,neovim,bash,linux,debian,solidity,figma,python,java,php,powershell,discord&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nestjs,express,postgres,mysql,prisma,rust,solidity,bun,nodejs,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=md,vscode,npm,postman,neovim,bash,linux,debian,figma,python,java,php,powershell,discord&theme=dark" />
 </div>
 
 ## My Github Stats
