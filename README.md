@@ -15,13 +15,10 @@
   <a href="https://arielbritezdiaz.github.io/portfolio/">
     <img src="https://badgen.net/badge/Portfolio/Here?color=blue" alt="" />
   </a>
-  <a href="https://www.paypal.com/paypalme/ArielBritezDiaz">
-    <img src="https://badgen.net/badge/Support Me/PayPal?color=red" alt="PayPal: https://www.paypal.com/paypalme/ArielBritezDiaz" />
-  </a>
 </p>
 
 ## A brief description
-I'm a Programming Technician and developer, who is restless and self-taught, I'm 19 years old and I live in Argentina.\
+I'm a Programming Technician and developer, who is restless and self-taught, I'm 20 years old and I live in Argentina.\
 I have solid knowledge of Web Development, especially in Backend Web.
 
 ## Projects
@@ -38,8 +35,12 @@ CMF Engines: An e-commerce oriented towards collectible cars, motorcycles, and F
 A mobile application called "Flit", which is developed with React Native and aims at managing daily personal finances.\
 This project was done in a team.
 
-### <a href="https://github.com/ArielBritezDiaz/F1-API" target="_blank">F1 API</a>
+### <a href="https://github.com/MarianoJSB/F1-API.github.io" target="_blank">F1 API</a>
 A website that makes a data request to a Formula One API to provide information about different pilots, as well as offering information about the tracks and other historical data (spanning from 2020 to 1950!).\
+This project was done in a team.
+
+### <a href="https://github.com/MarianoJSB/cmf3d.github.io" target="_blank">CMF 3D</a>
+A collectible car startup idea based on and aligned with the CMF line.\
 This project was done in a team.
 
 ### <a href="https://github.com/ArielBritezDiaz/cmf-engines" target="_blank">CMF Engines</a>
