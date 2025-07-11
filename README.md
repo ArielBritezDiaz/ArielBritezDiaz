@@ -43,7 +43,7 @@ This project was done in a team.
 A collectible car startup idea based on and aligned with the CMF line.\
 This project was done in a team.
 
-### <a href="https://github.com/ArielBritezDiaz/cmf-engines" target="_blank">CMF Engines</a>
+### <a href="https://github.com/ArielBritezDiaz/CMF_Engines" target="_blank">CMF Engines</a>
 An e-commerce focused on collectible vehicles, covering cars, motorcycles, and Formula One.\
 This project was done in a team.
 
