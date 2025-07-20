@@ -24,10 +24,6 @@ I have solid knowledge of Web Development, especially in Backend Web.
 ## Projects
 Some of my projects and repositories are public, here are some of them:
 
-### <a href="https://github.com/ArielBritezDiaz/blockchain_flit" target="_blank">Blockchain Flit</a>
-A cryptocurrency called 'Flitcoin' developed with Solidity, along with the blockchain and the coin developed with Python.
-CMF Engines: An e-commerce oriented towards collectible cars, motorcycles, and Formula cars, developed with PHP for the Backend.
-
 ### <a href="https://github.com/ArielBritezDiaz/flit-application" target="_blank">Flit Application</a>
 A mobile application called "Flit", which is developed with React Native and aims at managing daily personal finances.\
 This project was done in a team.
@@ -43,6 +39,10 @@ This project was done in a team.
 ### <a href="https://github.com/ArielBritezDiaz/CMF_Engines" target="_blank">CMF Engines</a>
 An e-commerce focused on collectible vehicles, covering cars, motorcycles, and Formula One.\
 This project was done in a team.
+
+### <a href="https://github.com/ArielBritezDiaz/blockchain_flit" target="_blank">Blockchain Flit</a>
+A cryptocurrency called 'Flitcoin' developed with Solidity, along with the blockchain and the coin developed with Python.
+CMF Engines: An e-commerce oriented towards collectible cars, motorcycles, and Formula cars, developed with PHP for the Backend.
 
 ## Languages - Frameworks - Tools
 <div align="center">
