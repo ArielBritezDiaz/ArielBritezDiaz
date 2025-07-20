@@ -46,7 +46,7 @@ CMF Engines: An e-commerce oriented towards collectible cars, motorcycles, and F
 
 ## Languages - Frameworks - Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nestjs,postgres,mysql,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nestjs,postgres,mysql,git&theme=dark" />
   <img src="https://skillicons.dev/icons?i=neovim,linux,figma&theme=dark" />
 </div>
 
