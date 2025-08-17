@@ -5,6 +5,6 @@ Profile = {
     Title: "Backend Developer",
     Stack: [ "React-TS", "NestJs", "PostgreSQL", "Drizzle ORM", "Git", "SCSS", "Biome", "Stylelint" ],
     Setup: [ "Nvim", "tmux", "Linux" ],
-    Website: "https://abdiaz.com",
+    Website: "https://arielbritezdiaz.github.io/oldportfolio",
 }
 ```
