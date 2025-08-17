@@ -18,7 +18,7 @@
 </p>
 
 ## A brief description
-I'm a Programming Technician and developer, who is restless and self-taught, I'm 20 years old and I live in Argentina.\
+I'm a Programming Technician and Backend Developer, who is restless and self-taught, I'm 20 years old and I live in Argentina.\
 I have solid knowledge of Web Development, especially in Backend Web.
 
 ## Projects
