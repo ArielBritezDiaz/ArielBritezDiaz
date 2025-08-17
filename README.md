@@ -12,7 +12,7 @@
   <a href="mailto:arielbritezdiaz@email.com" target="_blank" rel="noopener noreferrer">
     <img src="https://badgen.net/badge/Gmail/arielbritezdiaz@gmail.com?color=blue" alt="Gmail/arielbritezdiaz@gmail.com" />
   </a>
-  <a href="https://abdiaz.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://arielbritezdiaz.github.io/oldportfolio/" target="_blank" rel="noopener noreferrer">
     <img src="https://badgen.net/badge/Portfolio/Here?color=blue" alt="" />
   </a>
 </p>
